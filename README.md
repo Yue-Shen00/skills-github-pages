@@ -1,54 +1,63 @@
-<header>
+# 👩‍🔬 Yue Shen | 沈越
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+🎓 Incoming PhD Student in Applied Mathematics  
+📍 School of Mathematical Sciences, University of Nottingham  
+📧 ucfbys0@ucl.ac.uk | www.linkedin.com/in/sia-6b666b29b
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🧠 About Me
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+I’m a researcher passionate about combining mathematical theory with real-world complexity. Starting from October 2025, I will pursue my PhD in **Applied Mathematics** at the University of Nottingham, under the supervision of [Dr. Kirsty Bolton](https://www.nottingham.ac.uk/mathematics/people/kirsty.bolton) and [Prof. Philip O’Neill](https://www.nottingham.ac.uk/mathematics/people/philip.oneill), within the **Statistics and Probability Section** led by Prof. Peter Neal.
 
-</footer>
+My current research interests include:
+
+- 📌 Differential Equations & Dynamical Systems  
+- 📌 Approximate Bayesian Computation (ABC)  
+- 📌 Stochastic Epidemic Modeling  
+- 📌 Numerical Methods for PDEs  
+
+---
+
+## 🎓 Education
+
+- **PhD in Applied Mathematics** (2025–), University of Nottingham  
+- **MSc in Risk, Disaster & Resilience** (2022–2023), University College London  
+- **BSc in Mathematical Sciences** (2018–2022), Xi’an Jiaotong-Liverpool University  
+
+---
+
+## 📝 Selected Publication
+
+> **Cai Y, Shen Y, Wang T, Xie T.**  
+> *Examination of U.S. finance-related industry under COVID-19 based on Fama-French model*.  
+> *Proceedings of the 2021 3rd International Conference on Economic Management and Cultural Industry (ICEMCI 2021)*. Atlantis Press; 2021:1191-1198.  
+> DOI: [10.2991/assehr.k.211209.192](https://doi.org/10.2991/assehr.k.211209.192)
+
+---
+
+## 💼 Experience
+
+**Deals Desk Analyst**  
+*Trafigura Group, Shanghai*  
+• Managed daily P&L and physical/derivatives reconciliation  
+• Built pricing automation tools and supported FX arbitrage trading  
+• Developed option pricing tools and VaR-based risk metrics  
+
+**Risk Management Intern**  
+*Donghai Futures, Shanghai*  
+• Implemented AML screening models using SQL  
+• Priced exotic options using Monte Carlo simulation in Python  
+
+---
+
+## 🌐 Connect with Me
+
+- 🌍 Website: [yueshen.net](http://yueshen.net)  
+- 📫 Email: yue.shen@nottingham.ac.uk  
+- 💬 WeChat: shenyue_phd (optional)  
+- 📄 [CV (PDF)](link_to_cv)
+
+---
+
+*Last updated: May 2025*
