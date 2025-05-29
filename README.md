@@ -19,14 +19,6 @@ My current research interests include:
 
 ---
 
-## 🎓 Education
-
-- **PhD in Applied Mathematics** (2025–), University of Nottingham  
-- **MSc in Risk, Disaster & Resilience** (2022–2023), University College London  
-- **BSc in Mathematical Sciences** (2018–2022), Xi’an Jiaotong-Liverpool University  
-
----
-
 ## 📝 Selected Publication
 
 > **Cai Y, Shen Y, Wang T, Xie T.**  
